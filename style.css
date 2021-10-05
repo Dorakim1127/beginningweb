@@ -1,0 +1,39 @@
+html{
+    background-image: url(mushroom.png)
+}
+h1{
+    font-family : Arial;
+    text-align: center;
+    background-color: aqua;
+    background-position: center;
+    border-style: double;
+
+}
+footer{
+    text-align: center;
+}
+a{
+    text-align: center;
+    background-color: blue;
+    color: white;
+}
+p{
+    color: white;
+    font-size: 30px;
+    border-style: dotted;
+    width: 40%;
+}
+section{
+    text-align: center;
+}
+img {
+  opacity: 0.5;
+}
+
+img:hover {
+  opacity: 1.0;
+}
+
+ul{
+    color : aqua;
+}
